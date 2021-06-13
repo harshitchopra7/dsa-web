@@ -1,0 +1,8 @@
+.array {
+    padding: 0 5%;
+}
+.array_align {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
